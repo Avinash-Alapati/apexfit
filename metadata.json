@@ -1,0 +1,6 @@
+{
+  "name": "ApexFit",
+  "description": "Premium AI-powered fitness ecosystem with interactive workout generator, nutrition tracking, running history, real-time audio coaching, muscle heatmaps, and gamification.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
